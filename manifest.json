@@ -1,0 +1,11 @@
+
+{
+	"id": "obsidian_task_sorter",
+	"name": "Task Sorter",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.12",
+	"description": "Sort task list blocks in the current note by priority and start date while preserving stable order for ties.",
+	"author": "Denis Rylikov",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
