@@ -53,17 +53,17 @@ The two normal tasks keep their original order because they tie on completion, p
 Before:
 
 ```md
-- [ ] future task 🛫 2027-04-09
+- [ ] future task 🛫 2027-11-13
 - [ ] undated task
-- [ ] ready now task 🛫 2026-04-09
+- [ ] ready now task 🛫 2026-11-13
 ```
 
 After:
 
 ```md
-- [ ] ready now task 🛫 2026-04-09
+- [ ] ready now task 🛫 2026-11-13
 - [ ] undated task
-- [ ] future task 🛫 2027-04-09
+- [ ] future task 🛫 2027-11-13
 ```
 
 Tasks with a start date of today or earlier come first, undated tasks stay in the middle, and future tasks move below them.
